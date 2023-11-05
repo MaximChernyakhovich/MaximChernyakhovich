@@ -25,6 +25,8 @@
 ### :man_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVpeWg4YXB1NHRqd2U4N3J1Z2ZpZWRra3I1dGdibXd2YWtidjkyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30">.
 
+I decided to create a new GitHub profile to start with a clean slate and better reflect my current level of experience and skills. This new profile represents a fresh start in my development journey, and I am ready for new challenges and opportunities.
+
 - :telescope: I currently work as a backend developer, specializing in monitoring and data processing.
 
 - :seedling: My interests include programming, and I continuously expand my knowledge in this field.
