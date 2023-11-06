@@ -55,5 +55,10 @@ I decided to create a new GitHub profile to start with a clean slate and better 
 ---
 
 ### :fire: My Stats :
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaximChernyakhovich&theme=graywhite&border_radius=4&card_width=400)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximchernyakhovich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
